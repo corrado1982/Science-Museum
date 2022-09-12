@@ -1,21 +1,51 @@
 header {
     display: flex;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(13, 160, 194);
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(13, 160, 194);
+}
+footer p {
+    color: white;
+    margin: 0;
+    text-align: center;
+    
     
 }
 .logo {
-    width: 10%;
+    width: 15%;
+    padding-left: 5px;
+    font-size: 24px;
 }
 nav {
 
-    width: 90%;
+    width: 85%;
 }
 nav ul {
     display: flex;
     justify-content: space-between;
-    list-style-type: none;
-    
-    
 }
-nav a {
+li {
+    display:inline-block;
+}
+nav a, a {
     text-decoration: none;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+section {
+    background-color: yellow;
+    margin: 0 10%
+}
+p {
+    padding: 20px;
 }
