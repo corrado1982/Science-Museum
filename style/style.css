@@ -1,6 +1,6 @@
 header {
     display: flex;
-    width: 80%;
+    width: 86%;
     margin: auto;
     background-color: #00F9FF;
     box-shadow: 4px 5px 6px 3px #8b8b8b85;
@@ -9,8 +9,8 @@ header {
 
 footer{
     display: flex;
-    justify-content: space-around;
-    width: 80%;
+    justify-content: space-between;
+    width: 86%;
     margin: auto;
     background-color: #00F9FF;
     box-shadow: 4px 5px 6px 3px #8b8b8b85;
@@ -19,7 +19,7 @@ footer{
 
 footer p {
     color: rgb(0, 0, 0);
-    margin: 5px;
+    margin: 10px 25px;
     text-align: center;
     
     
@@ -27,14 +27,14 @@ footer p {
 .logo {
     width: 15%;
     padding-left: 5px;
-    font-size: 36px;
+    font-size: 46px;
 }
 nav {
 
     width: 85%;
 }
 nav ul {
-    margin: 60px 5px 2px 5px;
+    margin: 116px 5px 2px 5px;
     padding: 0;
     display: flex;
     justify-content: space-between;
@@ -45,7 +45,7 @@ li {
 nav a, a {
     text-decoration: none;
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 30px;
 }
 h1 {
     font-size: 50px;
@@ -54,13 +54,16 @@ h1 {
 }
 section {
     background-color: yellow;
-    margin: 0 10%;
+    margin: 0 7%;
     box-shadow: 4px 5px 6px 3px #8b8b8b85;
     border-radius: 3px;
 
 }
 section p {
-    font-size: 26px;
+    
     color: #001994;
     padding: 20px;
+}
+p {
+    font-size: 30px; 
 }
