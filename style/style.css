@@ -6,7 +6,12 @@ header {
     box-shadow: 4px 5px 6px 3px #8b8b8b85;
     border-radius: 3px;
 }
-
+/*nav {
+    display: none;
+}
+#hamburger-menu:checked ~ nav {
+    display: block;
+}*/
 footer{
     display: flex;
     justify-content: space-between;
@@ -66,4 +71,32 @@ section p {
 }
 p {
     font-size: 30px; 
+}
+#hamburger-menu {
+    display: none;
+}
+
+@media (min-width: 1401px) {
+i.fas.fa-bars {
+    display: none;
+    
+}
+}
+
+
+
+@media (max-width: 1400px) {
+    i.fas.fa-bars {
+        font-size: larger;
+        font-weight: 200;
+    }
+    nav {
+        display: none;
+    }
+    #hamburger-menu {
+        display: none;
+    }
+    #hamburger-menu:checked ~ nav {
+        display: block;
+}
 }
