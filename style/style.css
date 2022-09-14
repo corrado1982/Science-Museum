@@ -20,8 +20,9 @@ body {
     display: block;
 }*/
 footer{
+    flex-wrap: wrap;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 86%;
     margin: auto;
     background-color: #00F9FF;
