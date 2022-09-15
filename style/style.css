@@ -43,9 +43,11 @@ footer p {
     
 }
 .logo {
+    font-family: "Papyrus" , Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: bold;
     width: 15%;
     padding-left: 10px;
-    font-size: 46px;
+    font-size: 33px;
 }
 nav {
 
@@ -67,7 +69,7 @@ nav a, a {
 }
 h1 {
     font-family: "Papyrus", Verdana, Geneva, Tahoma, sans-serif ;
-    font-size: 50px;
+    font-size: 100px;
     margin: 224px 70px 70px 70px;
     text-align: center;
 }
@@ -84,7 +86,7 @@ section p {
     padding: 20px;
 }
 p {
-    font-size: 30px; 
+    font-size: 25px; 
 }
 #hamburger-menu {
     display: none;
@@ -109,6 +111,10 @@ i.fas.fa-bars {
 
 
 @media (max-width: 1400px) {
+    h1 {
+        font-size: 70px;
+    }
+
    header {
     justify-content: space-between;
     
