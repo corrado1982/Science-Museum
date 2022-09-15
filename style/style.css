@@ -63,6 +63,9 @@ li {
     font-family: "Tahoma", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display:inline-block;
 }
+.list-home {
+    display: none;
+}
 nav a, a {
     text-decoration: none;
     color: rgb(0, 0, 0);
@@ -121,6 +124,9 @@ i.fas.fa-bars {
     justify-content: space-between;
     
    }
+   .list-home {
+    display: block;
+}
 
     i.fas.fa-bars {
         display: block;
@@ -150,7 +156,7 @@ i.fas.fa-bars {
     position: absolute;
     right: -1%;
     top: 41px;
-    height: 365px;
+    height: 430px;
     text-align: center;
 }
 li {
