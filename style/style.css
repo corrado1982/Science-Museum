@@ -63,6 +63,9 @@ li {
     font-family: "Tahoma", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display:inline-block;
 }
+.current-page {
+    text-decoration: underline;
+}
 .list-home {
     display: none;
 }
