@@ -159,3 +159,19 @@ li a {
     font-size:40px;
 }
 }
+
+@media (max-width: 480px) {
+    h1 {font-size: 30px;
+        margin: 120px 60px 30px 50px;
+    }
+    p {
+        font-size: 20px;
+    }
+    i.fas.fa-bars {
+        font-size: 70px;
+        
+    }
+    .logo {
+        font-size: 20px;
+    }
+}
