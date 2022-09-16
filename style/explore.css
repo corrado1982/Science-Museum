@@ -1,16 +1,25 @@
 .img-for-kids {
-    
     float: left;
+}
+.img-teacher {
+    float: right;
 }
 .img-sections {
     padding: 20px 30px 0 20px;
     width: 45%;
 }
+
+
 @media (max-width: 480px) {
     .img-sections {
         padding: 0;
         width: 94%;
         margin-top: 5%;
         margin-left: 5%;
+    }
+    .teacher-section,
+    .teacher-section p {
+        background-color:#FFB540 ;
+        color: black;
     }
 }
