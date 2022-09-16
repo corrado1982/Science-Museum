@@ -1,0 +1,16 @@
+.img-for-kids {
+    
+    float: left;
+}
+.img-sections {
+    padding: 20px 30px 0 20px;
+    width: 45%;
+}
+@media (max-width: 480px) {
+    .img-sections {
+        padding: 0;
+        width: 94%;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+}
