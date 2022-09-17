@@ -82,9 +82,10 @@ h1 {
 }
 section {
     background-color: yellow;
-    margin: 0 7%;
+    margin: 25px 7%;
     box-shadow: 4px 5px 6px 3px #8b8b8b85;
     border-radius: 3px;
+    border: 1px solid #001994;
 
 }
 section p {

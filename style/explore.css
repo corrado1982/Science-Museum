@@ -1,3 +1,4 @@
+
 .img-for-kids {
     float: left;
 }
@@ -5,10 +6,15 @@
     float: right;
 }
 .img-sections {
-    padding: 20px 30px 0 20px;
-    width: 45%;
+    margin: 20px;
+   width: 40%;
 }
 
+.clearfix::after {
+    clear:both;
+    content: "";
+    display: table;
+}
 
 @media (max-width: 480px) {
     .img-sections {
