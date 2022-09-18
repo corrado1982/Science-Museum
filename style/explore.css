@@ -10,11 +10,10 @@
     color: yellow;
 }
 
-.img-for-kids,
-.img-researcher {
+.float-left {
     float: left;
 }
-.img-teacher {
+.float-right {
     float: right;
 }
 .img-sections {
