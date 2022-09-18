@@ -40,7 +40,8 @@
         background-color:#FFB540 ;
         color: black;
     }
-    .researcher-section {
+    .researcher-section,
+    .researcher-section p {
         background-color:#1BFF00 ;
         color: #3500DB;
     }
