@@ -18,12 +18,7 @@ header {
 body {
     margin: 0;
 }
-/*nav {
-    display: none;
-}
-#hamburger-menu:checked ~ nav {
-    display: block;
-}*/
+
 footer{
     flex-wrap: wrap;
     display: flex;
@@ -107,8 +102,10 @@ i.fas.fa-bars {
 
 
 
-body {
+.home-background {
     background-image: url("../images/smsfondo.jpg") ;
+    background-attachment: fixed;
+    background-size: cover;
  }
 /*@media (min-width: 1401px) {
 i.fas.fa-bars {

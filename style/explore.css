@@ -1,5 +1,17 @@
 
-.img-for-kids {
+.explore-background {
+    background-image: url(../images/background-explore.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right;
+}
+.explore-background h1 {
+    color: yellow;
+}
+
+.img-for-kids,
+.img-researcher {
     float: left;
 }
 .img-teacher {
@@ -8,6 +20,7 @@
 .img-sections {
     margin: 20px;
    width: 40%;
+   box-shadow: 6px 6px 15px 2px #8b8a8a;
 }
 
 .clearfix::after {
@@ -18,14 +31,17 @@
 
 @media (max-width: 480px) {
     .img-sections {
+        margin: 3%;
         padding: 0;
         width: 94%;
-        margin-top: 5%;
-        margin-left: 5%;
     }
     .teacher-section,
     .teacher-section p {
         background-color:#FFB540 ;
         color: black;
+    }
+    .researcher-section {
+        background-color:#1BFF00 ;
+        color: #3500DB;
     }
 }
