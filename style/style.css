@@ -1,7 +1,4 @@
-/*@font-face {
-    font-family: "Papyrus"; 
-    
-}*/
+
 
 header {
     position: fixed;
@@ -107,12 +104,7 @@ i.fas.fa-bars {
     background-attachment: fixed;
     background-size: cover;
  }
-/*@media (min-width: 1401px) {
-i.fas.fa-bars {
-    display: none;
-    
-}
-}*/
+
 
 
 
@@ -120,8 +112,8 @@ i.fas.fa-bars {
     h1 {
         font-size: 70px;
     }
-
-   header {
+/* HEADER */
+    header {
     justify-content: space-between;
     
    }
@@ -197,8 +189,8 @@ li a {
     }
     li {
         padding-bottom: 28px;
-    font-size: 20px;
-    padding-top: 8px;
+        font-size: 20px;
+        padding-top: 8px;
     }
     
 
