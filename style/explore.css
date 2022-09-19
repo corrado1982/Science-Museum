@@ -30,8 +30,8 @@
 }
 .img-sections {
     margin: 20px;
-   width: 40%;
-   box-shadow: 6px 6px 15px 2px #8b8a8a;
+    width: 40%;
+    box-shadow: 6px 6px 15px 2px #8b8a8a;
 }
 
 .clearfix::after {
