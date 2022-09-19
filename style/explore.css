@@ -21,7 +21,16 @@
 .exhibition-space-background h1 {
     color: #1BFF00;
 }
-
+.special-background {
+    background-image: url(../images/lab.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.special-background h1 {
+    color: #3500DB ;
+}
 .float-left {
     float: left;
 }
