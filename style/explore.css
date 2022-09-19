@@ -10,6 +10,18 @@
     color: yellow;
 }
 
+.exhibition-space-background {
+    background-image: url(../images/exhibition-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+.exhibition-space-background h1 {
+    color: #1BFF00;
+}
+
 .float-left {
     float: left;
 }
