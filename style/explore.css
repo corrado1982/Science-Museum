@@ -37,6 +37,21 @@
 .float-right {
     float: right;
 }
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.img-icon {
+
+margin: 30px;
+
+}
+.icon-p {
+    text-align: center;
+    width: 60%;
+    margin:auto;
+}
 .img-sections {
     margin: 20px;
     width: 40%;
