@@ -34,13 +34,13 @@
         padding: 0;
         width: 94%;
     }
-    .teacher-section,
-    .teacher-section p {
+    .orange-section,
+    .orange-section p {
         background-color:#FFB540 ;
         color: black;
     }
-    .researcher-section,
-    .researcher-section p {
+    .green-section,
+    .green-section p {
         background-color:#1BFF00 ;
         color: #3500DB;
     }
