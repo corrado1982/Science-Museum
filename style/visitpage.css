@@ -1,0 +1,27 @@
+.visit-info {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.location-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 370px;
+    
+}
+.hours-info {
+    width: 370px;
+    
+}
+.location-info img {
+    width: 230px;
+    margin-bottom: 20px;
+}
+.hours-info p,
+.location-info p {
+    text-align: center;
+    display: block;
+}

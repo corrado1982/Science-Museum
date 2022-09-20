@@ -46,8 +46,8 @@
     flex-direction: row-reverse;
 }
 .img-icon {
-width: 170px;
-margin: 30px;
+    width: 170px;
+    margin: 30px;
 
 }
 .icon-p {
@@ -82,5 +82,9 @@ margin: 30px;
     .green-section p {
         background-color:#1BFF00 ;
         color: #3500DB;
+    }
+    .img-icon {
+        width: 100px;
+    
     }
 }
