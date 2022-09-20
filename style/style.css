@@ -96,8 +96,18 @@ i.fas.fa-bars {
     display: none;
     
 }
-
-
+.get-involved-background h1 {
+    color: yellow;
+    text-shadow: 3px 3px 1px black
+    
+ }
+.get-involved-background {
+    background-image: url(../images/get-involved-background.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .home-background {
     background-image: url("../images/smsfondo.jpg") ;
