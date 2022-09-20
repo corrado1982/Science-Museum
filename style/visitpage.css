@@ -1,3 +1,13 @@
+.visit-background {
+    background-image: url(../images/visit-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.visit-background h1 {
+    color: #1BFF00;
+}
 .visit-info {
     display: flex;
     justify-content: space-around;
