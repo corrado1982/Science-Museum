@@ -30,30 +30,30 @@
     }
     #hamburger-menu:checked ~ nav {
         display: block;
-}
-.list-hamburger {
-    display: block;
-    background-color: #E1E1E1;
-    box-shadow: inset 8px -9px 16px 5px #8b8b8b99;
-    width: 410px;
-    position: absolute;
-    right: -1%;
-    top: 41px;
-    height: 430px;
-    text-align: center;
-}
-li {
-    font-weight: bold;
-    font-size: 40px;
-    font-family: "Papyrus";
-    padding-top: 10px;
-    display: list-item;
-    list-style-type: none; 
-    text-shadow: 5px 4px 3px #b1b1b1;
-}
-li a {
-    font-size:30px;
-}
+    }
+    .list-hamburger {
+        display: block;
+        background-color: #E1E1E1;
+        box-shadow: inset 8px -9px 16px 5px #8b8b8b99;
+        width: 410px;
+        position: absolute;
+        right: -1%;
+        top: 41px;
+        height: 430px;
+        text-align: center;
+    }
+    li {
+        font-weight: bold;
+        font-size: 40px;
+        font-family: "Papyrus";
+        padding-top: 10px;
+        display: list-item;
+        list-style-type: none; 
+        text-shadow: 5px 4px 3px #b1b1b1;
+    }
+    li a {
+        font-size:30px;
+    }
 }
 
 @media (max-width: 480px) {
