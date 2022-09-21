@@ -12,6 +12,9 @@ header {
     top: 0;
     left: 0;
     right: 0;
+}
+header,
+footer {
     display: flex;
     width: 86%;
     margin: auto;
@@ -61,28 +64,6 @@ i.fas.fa-bars {
 
 
 /* MAIN */
-
-
-/* FOOTER */
-footer{
-    flex-wrap: wrap;
-    display: flex;
-    justify-content: space-around;
-    width: 86%;
-    margin: auto;
-    background-color: #00F9FF;
-    box-shadow: 4px 5px 6px 3px #8b8b8b85;
-    border-radius: 3px;
-}
-
-footer p {
-    color: rgb(0, 0, 0);
-    margin: 10px 25px;
-    text-align: center;
-    
-    
-}
-
 h1 {
     font-family: "Papyrus", Verdana, Geneva, Tahoma, sans-serif ;
     font-size: 100px;
@@ -90,6 +71,11 @@ h1 {
     text-align: center;
     color: yellow;
     text-shadow: 3px 3px 1px black
+}
+p {
+    font-family: "Tahoma", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: black; 
 }
 .base-section {
     background-color: yellow;
@@ -104,10 +90,19 @@ h1 {
     color: #001994;
     padding: 20px;
 }
-p {
-    font-family: "Tahoma", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 25px; 
+
+
+/* FOOTER */
+footer{
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
+footer p {
+    margin: 10px 25px;
+    text-align: center;
+}
+
+
 
 .get-involved-background {
     background-image: url(../images/get-involved-background.jpg);
