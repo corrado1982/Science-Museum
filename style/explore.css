@@ -61,24 +61,3 @@
     display: table;
 }
 
-@media (max-width: 480px) {
-    .img-sections {
-        margin: 3%;
-        padding: 0;
-        width: 94%;
-    }
-    .orange-section,
-    .orange-section p {
-        background-color:#FFB540 ;
-        color: black;
-    }
-    .green-section,
-    .green-section p {
-        background-color:#1BFF00 ;
-        color: #3500DB;
-    }
-    .img-icon {
-        width: 100px;
-    
-    }
-}
