@@ -91,6 +91,24 @@ p {
     padding: 20px;
 }
 
+/* Float Images */
+
+.img-sections {
+    margin: 20px;
+    width: 40%;
+    box-shadow: 6px 6px 15px 2px #8b8a8a;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.clearfix::after {
+    clear:both;
+    content: "";
+    display: table;
+}
 
 /* FOOTER */
 footer{
