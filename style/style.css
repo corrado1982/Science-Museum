@@ -96,6 +96,11 @@ i.fas.fa-bars {
     display: none;
     
 }
+.home-background h1,
+.special-background h1,
+.visit-background h1,
+.exhibition-space-background h1,
+.explore-background h1,
 .get-involved-background h1 {
     color: yellow;
     text-shadow: 3px 3px 1px black

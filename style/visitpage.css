@@ -6,9 +6,7 @@
     background-attachment: fixed;
 
 }
-.visit-background h1 {
-    color: #1BFF00;
-}
+
 .visit-info {
     display: flex;
     justify-content: space-around;
