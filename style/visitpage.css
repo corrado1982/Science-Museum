@@ -30,7 +30,7 @@
 .hours-info p,
 .location-info p {
     text-align: center;
-    display: block;
+    /*display: block;*/
 }
 .flex-box {
     display: flex;
