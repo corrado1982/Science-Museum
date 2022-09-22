@@ -4,6 +4,31 @@
 body {
     margin: 0;
 }
+.background {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.get-involved-background {
+    background-image: url(../images/get-involved-background.jpg);
+}
+.home-background {
+    background-image: url("../images/smsfondo.jpg");
+}
+.visit-background {
+    background-image: url(../images/visit-background.jpg);
+}
+.explore-background {
+    background-image: url(../images/background-explore.png);
+}
+.exhibition-space-background {
+    background-image: url(../images/exhibition-background.jpg);
+}
+.special-background {
+    background-image: url(../images/lab.jpg);
+}
+
 
 /* HEADER */
 
@@ -91,24 +116,7 @@ p {
     padding: 20px;
 }
 
-/* Float Images */
 
-.img-sections {
-    margin: 20px;
-    width: 40%;
-    box-shadow: 6px 6px 15px 2px #8b8a8a;
-}
-.float-left {
-    float: left;
-}
-.float-right {
-    float: right;
-}
-.clearfix::after {
-    clear:both;
-    content: "";
-    display: table;
-}
 
 /* FOOTER */
 footer{
@@ -121,23 +129,6 @@ footer p {
 }
 
 
-
-.get-involved-background {
-    background-image: url(../images/get-involved-background.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.home-background {
-    background-image: url("../images/smsfondo.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-
-    background-position: center;
-    background-repeat: no-repeat;
- }
 
 
 
