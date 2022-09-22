@@ -2,14 +2,14 @@
     h1 {
         font-size: 70px;
     }
-/* HEADER */
+
     header {
     justify-content: space-between;
     
    }
    .list-home {
     display: block;
-}
+    }
 
     i.fas.fa-bars {
         display: block;
