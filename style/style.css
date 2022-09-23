@@ -10,18 +10,17 @@
 body {
     margin: 0;
 }
+.home-background {
+    background-image: url(../images/smsfondo.jpg);
+}
+
 .background {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-.get-involved-background {
-    background-image: url(../images/get-involved-background.jpg);
-}
-.home-background {
-    background-image: url(../images/smsfondo.jpg);
-}
+
 
 
 
