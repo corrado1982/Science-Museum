@@ -44,8 +44,8 @@
     }
     li {
         font-weight: bold;
-        font-size: 40px;
-        font-family: "Papyrus";
+        font-size: 46px;
+        /*font-family: "Papyrus";*/
         padding-top: 10px;
         display: list-item;
         list-style-type: none; 
