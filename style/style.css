@@ -21,12 +21,6 @@ body {
     background-repeat: no-repeat;
 }
 
-
-
-
-
-
-
 /* HEADER */
 
 header {
@@ -108,8 +102,6 @@ p {
 
 }
 .base-section p {
-    
-    /*color: #001994;*/
     padding: 20px;
 }
 
