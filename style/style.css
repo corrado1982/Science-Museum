@@ -1,4 +1,10 @@
 
+@font-face {
+    font-family: "Papyrus";
+    src:url(../fonts/PAPYRUS.TTF) format("truetype");
+
+}
+
 /* BODY */
 
 body {
