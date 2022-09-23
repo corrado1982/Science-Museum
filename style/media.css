@@ -45,7 +45,6 @@
     li {
         font-weight: bold;
         font-size: 46px;
-        /*font-family: "Papyrus";*/
         padding-top: 10px;
         display: list-item;
         list-style-type: none; 
@@ -95,7 +94,6 @@
     .green-section,
     .green-section p {
         background-color:#8EFF68 ;
-       /* color: #3500DB; */
     }
     .img-icon {
         width: 100px;
