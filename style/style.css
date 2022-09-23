@@ -22,18 +22,10 @@ body {
 .home-background {
     background-image: url(../images/smsfondo.jpg);
 }
-.visit-background {
-    background-image: url(../images/visit-background.jpg);
-}
-.explore-background {
-    background-image: url(../images/background-explore.png);
-}
-.exhibition-space-background {
-    background-image: url(../images/exhibition-background.jpg);
-}
-.special-background {
-    background-image: url(../images/lab.jpg);
-}
+
+
+
+
 
 
 /* HEADER */
