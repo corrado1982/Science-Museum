@@ -10,6 +10,21 @@
 body {
     margin: 0;
 }
+.exhibition-space-background {
+    background-image: url(../images/exhibition-background.jpg);
+}
+.explore-background {
+    background-image: url(../images/background-explore.png);
+}
+.get-involved-background {
+    background-image: url(../images/get-involved-background.jpg);
+}
+.special-background {
+    background-image: url(../images/lab.jpg);
+}
+.visit-background {
+    background-image: url(../images/visit-background.jpg);
+}
 .home-background {
     background-image: url(../images/smsfondo.jpg);
 }

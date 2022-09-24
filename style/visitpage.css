@@ -1,7 +1,5 @@
 
-.visit-background {
-    background-image: url(../images/visit-background.jpg);
-}
+
 .visit-info {
     display: flex;
     justify-content: space-around;
