@@ -10,9 +10,9 @@
 body {
     margin: 0;
 }
-/*.home-background {
+.home-background {
     background-image: url(../images/smsfondo.jpg);
-}*/
+}
 
 .background {
     background-attachment: fixed;
