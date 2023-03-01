@@ -1,4 +1,4 @@
-# Community Science-Museum
+# Community Science Museum
 
 ![community science museum](https://user-images.githubusercontent.com/104769882/222109945-4bd4c0da-cde5-43a4-aab0-20a945bb3ba5.png)
 
