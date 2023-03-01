@@ -42,4 +42,3 @@ Your contibution can be a styiling with CSS to make the site more appealing.
 
 [My LinkedIn page](https://www.linkedin.com/in/corrado-rofi-66b073128)
 
-Is a Website I m making for the semester project 1
