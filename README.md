@@ -20,7 +20,7 @@ Should be informative and appealing and attracting for both middle school pupils
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com:corrado1982/Science-Museum.git
 ```
 
 2. Install the dependencies:
