@@ -6,7 +6,7 @@
 
 This is a website for a museum that target audience of primary and middle school children and families with young children.
 Should be informative and appealing and attracting for both middle school pupils and their parents.
-The website don't contain any kind of interactions and has only informations of the museum.
+The website don't contain any kind of interactions and has only informations about the museum.
 
 - Is made with HTML and CSS.
 - It has 6 pages that is possible to reach from the navigation menu than turn to be an hamburger menu on small screen.
