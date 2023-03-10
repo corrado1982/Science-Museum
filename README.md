@@ -6,6 +6,7 @@
 
 This is a website for a museum that target audience of primary and middle school children and families with young children.
 Should be informative and appealing and attracting for both middle school pupils and their parents.
+Is made with HTML and CSS
 
 ## Built with
 
